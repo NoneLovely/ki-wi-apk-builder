@@ -1,4 +1,7 @@
+
 # APK Builder
+
+![лого](kiwi.png)
 
 Собирает Android-приложения (APK) прямо из HTML/CSS/JS кода. Без Android Studio, без SDK, без Gradle — всё делается из APK редактора на телефоне. Сборка идёт на серверах GitHub Actions, готовый APK автоматически скачивается.
 
